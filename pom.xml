@@ -4,8 +4,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.zeraholladay</groupId>
-	<artifactId>camel-rest</artifactId>
+	<groupId>com.demo.camel</groupId>
+	<artifactId>cam2bd</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
